@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:022827_0000_0FBA6C8883785610"/>
-            <pb facs="tcp:022827_0001_0FBA6C8A6D6381C0"/>
+            <pb facs="unknown:022827_0000_0FBA6C8883785610"/>
+            <pb facs="unknown:022827_0001_0FBA6C8A6D6381C0"/>
             <p>MISCELLANIES, <abbr>
                   <hi>VIZ.</hi>
                </abbr>
@@ -139,7 +139,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:022827_0002_0FBA6C8D12EDF668"/>
+            <pb facs="unknown:022827_0002_0FBA6C8D12EDF668"/>
             <head>An Honeſt Servant inſtructing his Maſter in a Leſſon of the great<g ref="char:EOLhyphen"/>eſt Weight and Importance.</head>
             <epigraph>
                <q>
@@ -174,7 +174,7 @@
                <l>I meaſure time both day and night,</l>
                <l>Obſerve my hands, that I go right:</l>
                <l>
-                  <pb n="3" facs="tcp:022827_0003_0FBA6C8E376D06A0"/>
+                  <pb n="3" facs="unknown:022827_0003_0FBA6C8E376D06A0"/>
 Attentively wind up my chain:</l>
                <l>Thus you inſtruction ſhall obtain.</l>
             </lg>
@@ -239,7 +239,7 @@ Attentively wind up my chain:</l>
                </l>
                <l>Gan vie with wiſdom, we are told,</l>
                <l>
-                  <pb n="4" facs="tcp:022827_0004_0FBA6C8FDC570910"/>
+                  <pb n="4" facs="unknown:022827_0004_0FBA6C8FDC570910"/>
 Nor all the things thou canſt deſire,</l>
                <l>Your heart can wiſh for, or admire.</l>
                <l>Let this be precious in your eyes,</l>
@@ -315,7 +315,7 @@ Nor all the things thou canſt deſire,</l>
                         </gap>.</hi> 7.</note>
                </l>
                <l>
-                  <pb n="5" facs="tcp:022827_0005_0FBA6C95A04B8C30"/>
+                  <pb n="5" facs="unknown:022827_0005_0FBA6C95A04B8C30"/>
 No moment paſt you can recall.</l>
                <l>If 'twould prevent your endleſs fall.</l>
                <l>In order to a happy death,</l>
@@ -383,7 +383,7 @@ No moment paſt you can recall.</l>
                <l>My doctrine ſhall be fairly try'd,</l>
                <l>The ſcripture will the cauſe decide.</l>
                <l>
-                  <pb n="6" facs="tcp:022827_0006_0FBA6C97228C0E20"/>
+                  <pb n="6" facs="unknown:022827_0006_0FBA6C97228C0E20"/>
 How doſt thou read thoſe pages, then?</l>
                <l>Doth God approve the froward man?<note place="margin">
                      <hi>
@@ -475,7 +475,7 @@ How doſt thou read thoſe pages, then?</l>
                <l>Be ſmart in trade with all thy might,</l>
                <l>But take good heed the thing is right.</l>
                <l>
-                  <pb n="7" facs="tcp:022827_0007_0FBA6C97EC6478B0"/>
+                  <pb n="7" facs="unknown:022827_0007_0FBA6C97EC6478B0"/>
 Fervent and true in things divine,<note place="margin">
                      <hi>
                         <gap reason="illegible: indecipherable" extent="1 word">
@@ -544,7 +544,7 @@ Fervent and true in things divine,<note place="margin">
             </lg>
          </div>
          <div type="poem">
-            <pb n="8" facs="tcp:022827_0008_0FBA6C99713D7FD0"/>
+            <pb n="8" facs="unknown:022827_0008_0FBA6C99713D7FD0"/>
             <head>A Hymn on the Month of May with an attempt to illuſtrate ſome of the Beauties of the Cre<g ref="char:EOLhyphen"/>ation.</head>
             <epigraph>
                <q>
@@ -565,7 +565,7 @@ Fervent and true in things divine,<note place="margin">
                <l>Of a rich and plenteous crop.</l>
             </lg>
             <lg>
-               <pb n="9" facs="tcp:022827_0009_0FBA6C9AE8D75280"/>
+               <pb n="9" facs="unknown:022827_0009_0FBA6C9AE8D75280"/>
                <l>Bright Phebus warms the chilled earth,</l>
                <l>Obſerve the beauties of new birth:</l>
                <l>Th' indulgent father of the day,</l>
@@ -601,7 +601,7 @@ Fervent and true in things divine,<note place="margin">
                <l>All animals ſince time begun,</l>
                <l>Were nouriſh'd by the bleſſed Sun.</l>
                <l>
-                  <pb n="10" facs="tcp:022827_0010_0FBA6CA0881A8A08"/>
+                  <pb n="10" facs="unknown:022827_0010_0FBA6CA0881A8A08"/>
 The mute creation doth declare</l>
                <l>The joyful ſeaſon of the year.</l>
                <l>(Works are more than words I believe,</l>
@@ -637,7 +637,7 @@ The mute creation doth declare</l>
                <l>This lovely bird, by heaven bleſs'd,</l>
                <l>I do admire above the reſt.</l>
                <l>
-                  <pb n="11" facs="tcp:022827_0011_0FBA6CA271B60F18"/>
+                  <pb n="11" facs="unknown:022827_0011_0FBA6CA271B60F18"/>
 America hath not this kind,</l>
                <l>To entertain the human mind:</l>
                <l>'Tis of Great Britain I do write,</l>
@@ -679,7 +679,7 @@ America hath not this kind,</l>
                <l>Each one his tuneful voice doth raiſe,</l>
                <l>And uſhers in the day with praiſe.</l>
                <l>
-                  <pb n="12" facs="tcp:022827_0012_0FBA6CA417FA9C60"/>
+                  <pb n="12" facs="unknown:022827_0012_0FBA6CA417FA9C60"/>
 The lark mounts up unto the ſky,</l>
                <l>Loſt to the ſight of human eye,</l>
                <l>Sweetly doth twiddle and doth ſing,</l>
@@ -717,7 +717,7 @@ The lark mounts up unto the ſky,</l>
                <l>The lordly cock will kindly treat,</l>
                <l>When finds a corn, calls to his mate,</l>
                <l>
-                  <pb n="13" facs="tcp:022827_0013_0FBA6CA583267CF0"/>
+                  <pb n="13" facs="unknown:022827_0013_0FBA6CA583267CF0"/>
 Take this corn my dear, as I live,</l>
                <l>When I find more, to thee I'll give.</l>
                <l>His words ſo ſoft and tender were,</l>
@@ -755,7 +755,7 @@ Take this corn my dear, as I live,</l>
                <l>In London I have often ſeen</l>
                <l>May celebrated like a queen;</l>
                <l>
-                  <pb n="14" facs="tcp:022827_0014_0FBA6CAC2E164F30"/>
+                  <pb n="14" facs="unknown:022827_0014_0FBA6CAC2E164F30"/>
 A rich garland of ſilver plate,</l>
                <l>Their kind friends to congratulate,</l>
                <l>Perhaps a thouſand pounds the piece,</l>
@@ -793,7 +793,7 @@ A rich garland of ſilver plate,</l>
                <l>Let blooming youth in time be wiſe,</l>
                <l>Obſerve how ſoon ſweet flowers dies</l>
                <l>
-                  <pb n="15" facs="tcp:022827_0015_0FBA6CADA716C278"/>
+                  <pb n="15" facs="unknown:022827_0015_0FBA6CADA716C278"/>
 The roſe of Sharon I admire,</l>
                <l>For 'tis a type of the Meſſiah;</l>
                <l>The paſſion flower in her dreſs,</l>
@@ -829,7 +829,7 @@ The roſe of Sharon I admire,</l>
                <l>Various beauties do ſpring forth,</l>
                <l>From the rich ſurface of the earth;</l>
                <l>
-                  <pb n="16" facs="tcp:022827_0016_0FBA6CAF86CB1AF0"/>
+                  <pb n="16" facs="unknown:022827_0016_0FBA6CAF86CB1AF0"/>
 Numerous are the flow'ry truſt,</l>
                <l>Some in fine powder richly dreſs'd;</l>
                <l>The painter can but imitate,</l>
@@ -867,7 +867,7 @@ Numerous are the flow'ry truſt,</l>
                <l>Let ſluggards learn for to be wiſe</l>
                <l>Go to the ant, I thee adviſe;</l>
                <l>
-                  <pb n="17" facs="tcp:022827_0017_0FBA6CB1FB991480"/>
+                  <pb n="17" facs="unknown:022827_0017_0FBA6CB1FB991480"/>
 Be active while the day is light,</l>
                <l>Complete your work before 'tis night:</l>
                <l>No poſt, ſo quick, ſo faſt doth fly,</l>
@@ -907,27 +907,27 @@ Be active while the day is light,</l>
             </closer>
          </div>
          <div type="letter">
-            <pb n="18" facs="tcp:022827_0018_0FBA6CB4C0615DC8"/>
+            <pb n="18" facs="unknown:022827_0018_0FBA6CB4C0615DC8"/>
             <head>An affectionate and dying Father's laſt Words; with his ſincere and godly Advice to his Children.</head>
             <opener>
                <salute>My dear Children,</salute>
             </opener>
             <p>IT appears to me, by the cleareſt demonſtra<g ref="char:EOLhyphen"/>tion, that I draw near, very near to the period of this mortal life. Divine Providence has been pleaſed to lay my feeble body on a languiſhing ſick bed. I believe, from various ſymptoms, that my diſeaſe is incurable, and conſequently muſt iſſue in death; and, to confirm this truth, I am given over by my phyſicians, and muſt in all ap<g ref="char:EOLhyphen"/>pearance, in a very ſhort time depart into the invi<g ref="char:EOLhyphen"/>ſible world of ſpirits, and never ending eternity.</p>
             <p>What a great and important change death makes on mankind. The body dies, and in a ſhort time turns to putrefaction in the grave; but the ſoul will ſurvive through the countleſs ages of eternity. But, my dear children, this is my conſolation, and the foundation of all my hopes, that Jeſus Chriſt came into the world to ſave ſin<g ref="char:EOLhyphen"/>ners, of whom I am chief, Tim. i. 15; and whoſoever believeth in him ſhall not periſh, but have everlaſting life. Therefore, reſpecting my<g ref="char:EOLhyphen"/>ſelf, I am contented and happy. For, through the riches of divine grace, I can, with aſſurance, ſay, that when the earthly houſe of this my tabernacle is diſſolved by the pale meſſenger Death, I have a building of God, an houſe not made with hands, eternal in the heavens, 2 Cor. v. 1. Therefore, I ſhall very ſhortly in the words, and I humbly
-<pb n="19" facs="tcp:022827_0019_0FBA6CB716B10178"/>
+<pb n="19" facs="unknown:022827_0019_0FBA6CB716B10178"/>
 hope and pray in the faith, of bleſſed Stephen, commit my ſoul into the hands of the Lord Jeſus Chriſt, who is ready to receive it, and bid an eternal farewel to all temporal things. But what troubles and concerns me, is you, my dear chil<g ref="char:EOLhyphen"/>dren; after my departure you will be poor help<g ref="char:EOLhyphen"/>leſs orphans, and my dear wife, and your kind indulgent mother, will be a diſconſolate widow. I leave you in a troubleſome and wicked world, beſet with enemies on every ſide; but my trou<g ref="char:EOLhyphen"/>ble is mitigated and my hopes revived, through the gracious and comfortable promiſes of my covenant God, who commands me to leave my fatherleſs children "with him and he will pre<g ref="char:EOLhyphen"/>ſerve them above alive, Jerem. xlix. 11. and my dear widow, by believing and truſting in the Lord, ſhall want nothing that is truly good." They that truſt in the Lord ſhall be as mount Zion, which cannot be removed, but abideth for ever. Truſt in the Lord, my dear children, with all your hearts, and lean not to your own underſtandings; in all your ways acknowledge him, and he ſhall direct your paths. The Lord tells us by his prophet Jeremiah, that the way of man is not in himſelf; it is not in man that walketh to direct his ſteps, Jer. x. 23. We have nothing to hope in but ſovereign grace.</p>
             <p>Give me leave, my dear children, to recom<g ref="char:EOLhyphen"/>mend to you, in the ſtrongeſt terms, the read<g ref="char:EOLhyphen"/>ing and ſtudying of the ſacred and inſpired wri<g ref="char:EOLhyphen"/>tings, which our gracious heavenly Father hath given us to learn and know his will. Bleſſed is he that readeth and they who hear the words of this prophecy, Rev. i. 3. and keeps thoſe things
-<pb n="20" facs="tcp:022827_0020_0FBA6CB82A4CE350"/>
+<pb n="20" facs="unknown:022827_0020_0FBA6CB82A4CE350"/>
 which are written in this divine book. Make the Bible your treaſure, the promiſes your inheri<g ref="char:EOLhyphen"/>tance, and you will be happy here and for ever.</p>
             <p>I alſo beg and requeſt, I pray and beſeech you, my dear children, with all the ſympathizing bowels of compaſſion, and endearing entreaties of a loving and tender parent, that you will grant me this one requeſt, namely, to read my dying words through at leaſt once a month; it is my laſt will and teſtament, and I deſire it as much as I do that you ſhould enjoy my eſtate and tem<g ref="char:EOLhyphen"/>poral goods which I have given and bequeath<g ref="char:EOLhyphen"/>ed to you. I have been inſtrumental, through God's bleſſing, of your birth into this world; your ſpiritual nativity is out of my power, no<g ref="char:EOLhyphen"/>thing ſhort of the omnipotent power of divine grace, can poſſibly effect it: And this divine change muſt paſs, on your ſouls, my dear chil<g ref="char:EOLhyphen"/>dren, otherwiſe there can be no ſalvation for you in the world to come, John iii. 5. Therefore, my earneſt cries, prayers, and petitions are fre<g ref="char:EOLhyphen"/>quently offered up to the God of heaven; and you, my dear children, muſt not be wanting to addreſs the throne of grace yourſelves, that God would pour his grace and ſpirit upon your ſouls, and make you new creatures in Chriſt Jeſus. "Yea, like as a father pitieth his own children, even ſo is the Lord merciful unto them that fear him.—The merciful goodneſs of the Lord endu<g ref="char:EOLhyphen"/>reth for ever and ever upon them that fear him, and his righteouſneſs upon children's children.—The Lord hath engraven his people on the palms of his hands, he keeps them as the apple of his eye, Deut. xxxii. 10. and waters them with his
-<pb n="21" facs="tcp:022827_0021_0FBA6CB9A54FC9D0"/>
+<pb n="21" facs="unknown:022827_0021_0FBA6CB9A54FC9D0"/>
 grace every moment—For the mountains ſhall depart and the hills be removed, but my kind<g ref="char:EOLhyphen"/>neſs ſhall not depart from thee; neither ſhall the covenant of my peace be removed, faith the Lord that hath mercy on thee, Iſaiah lxiv. 10." I am commanded in the ſacred oracles of truth, to teach and inſtruct my children in the good old way, that the holy fathers, prophets, and apoſtles have trod; and thro' grace, I have endeavoured, according to the ability given me of God, to diſ<g ref="char:EOLhyphen"/>charge this weighty and important duty. I will further, my dear children, addreſs you in the words of the pious Pſalmiſt, to his beloved ſon Solomon: And thou, know thou the God of thy father, and ſerve him with a perfect heart, and with a wil<g ref="char:EOLhyphen"/>ling mind, for the Lord ſearches all hearts and underſtandeth all the imaginations of the thoughts. If thou ſeek him he will be found of thee, but if thou forſake him, he will caſt thee off for ever, 1 Chron. xxviii. 9. Hear, ye children, the in<g ref="char:EOLhyphen"/>ſtruction of a father, and attend to know under<g ref="char:EOLhyphen"/>ſtanding, for I give ye good doctrine, forſake ye not my law, Prov. iv. 1, 2. Call on the Lord and he will anſwer thee, and ſhew thee great and mighty things which thou knoweſt not, Jer. xxxiii. 3. For the Lord hath promiſed in his in<g ref="char:EOLhyphen"/>fallible word, that he will be found of you, when you ſearch for him with your whole heart and ſoul, Jerem. xxix. 13. The eyes of the Lord run to and fro throughout the whole earth, to ſhew himſelf ſtrong in the behalf of them whoſe heart is perfect towards him, 2 Chron. xvi. 9. For the Lord God is a ſun and ſhield, the Lord will give grace and glory: no good thing will he
-<pb n="22" facs="tcp:022827_0022_0FBA6CBC9778C230"/>
+<pb n="22" facs="unknown:022827_0022_0FBA6CBC9778C230"/>
 withhold from them that walk uprightly, Pſal. lxxxiv. 11." The omnipotent Jehovah is a wall of fire about his choſen people, and a munition of rocks to defend them from every enemy and every evil. Secure his favour by an evangelical faith in Chriſt, and you may bid defiance to every evil; you may laugh at all the wicked powers of earth and hell. The omnipotent Jehovah fills heaven and earth with his preſence, and always ſurrounds us with his immenſity, as the light and darkneſs doth our bodies, day and night, Jerem. xxxiii. 23. For in GOD we live, and move, and have our being, Acts xvii. 28. Therefore, my dear children, do you not behave in any manner, re<g ref="char:EOLhyphen"/>ſpecting YOURSELVES, or others, which you would be aſhamed of before the meaneſt of your fellow creatures. There is no creature that is not ma<g ref="char:EOLhyphen"/>nifeſt in the ſight of God, Heb. iv. 13. Light and darkneſs are both alike to him, Pſal. cxxxix. 12. His all-ſeeing eye beholds every creature with one comprehenſive glance, and no created ſub<g ref="char:EOLhyphen"/>ſtance can ſcreen his all penetrating eye from be<g ref="char:EOLhyphen"/>holding it.—Be ye, therefore, ſtrong in the faith which is in Chriſt Jeſus; becauſe abundance of grace, the ſpecial gift of faith, will enable you to ſtand complete and perfect in the whole will of God, John vi. 29. The glory of God and the ſalvation of your ſouls, ought always to have the pre-eminence, becauſe it is the one thing need<g ref="char:EOLhyphen"/>ful. Happy is the man that findeth wiſdom, and the man that getteth underſtanding; for the mer<g ref="char:EOLhyphen"/>chandize of it is better than the merchandize of ſilver, and the gain thereof than fine gold: She is more precious than rubies, and all the things
-<pb n="23" facs="tcp:022827_0023_0FBA6CC24B427240"/>
+<pb n="23" facs="unknown:022827_0023_0FBA6CC24B427240"/>
 thou canſt deſire are not to be compared with her; length of days are in her right hand, and in her left hand riches and honour: Her ways are ways of pleaſantneſs, and all her paths are peace: She is a tree of life to them that lay hold upon her, and happy is every one that retaineth her, Prov. chap. iii. You are very near my heart, my dear children, and I do moſt earneſtly de<g ref="char:EOLhyphen"/>ſire your eternal felicity; but you muſt remem<g ref="char:EOLhyphen"/>ber what the word of God ſays on this head, that without holineſs of heart and life, you can never ſee the face of God with comfort. Now is the accepted time, now is the day of ſalvation; catch the preſent moments as they fly: Ariſe, therefore, and be doing, and the Lord ſhall be with you.</p>
             <p>But I am become exceeding faint and weak with ſpeaking, and in a very ſhort time my ſoul will take its everlaſting flight into the inviſible world of ſpirits; therefore, as Moſes the great pro<g ref="char:EOLhyphen"/>phet of the Lord, breathed out his ſoul in prayer to God, for his people, ſo my ſoul cries to the Father of mercies, and the God of all comfort, for you, my dear children. Oh! that you were wiſe, Oh! that you underſtood this, that you would conſider your latter end; how ſhortly will this great change paſs on your ſouls, and pale death bring your bodies to the duſt. Probably not one of the human race in fifty thouſand lives to my age, which is about ſeventy; and you, my dear children, though in the bloom of youth, and perfect health of body, may inſtantly cut down like a flower in its prime, as thouſands and tens of thouſands of mankind are; its is thought
-<pb n="24" facs="tcp:022827_0024_0FBA6CC39101F930"/>
+<pb n="24" facs="unknown:022827_0024_0FBA6CC39101F930"/>
 that three parts of mankind are called off by death before they arrive at the age of thirty years. It is the opinion of the wiſe and learned, that there is not a moment paſſes (all mankind conſi<g ref="char:EOLhyphen"/>dered throughout the world), without an immor<g ref="char:EOLhyphen"/>tal ſoul departing into the inviſible world—Be<g ref="char:EOLhyphen"/>hold the Judge ſtandeth before the door. Eter<g ref="char:EOLhyphen"/>nity is at hand, be ye therefore ſober, and watch unto prayer. Now, my dear wife and children, I muſt leave you, therefore, I commit you to God and the word of his grace, who is able to build you up in the moſt holy faith, and give you an inheritance among them that are ſanctified.—Farewel my dear wife and children, farewel.</p>
             <p>LORD JESUS receive my Spirit.</p>
             <closer/>
